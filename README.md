@@ -1,3 +1,3 @@
 # S0litaire.github.io
 
-# Basic 'Contact Me' static page
+Basic 'Contact Me' static page
